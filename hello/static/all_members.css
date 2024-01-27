@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(136, 215, 168);
+    text-align: center;
+    
+  }
+  
+h1 {
+    color: rgb(148, 124, 91);
+    text-align: center;
+  }
+  
+p {
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: 20px;
+  }
